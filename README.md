@@ -1,11 +1,11 @@
 # Python Function Exercises - Desafio Prático PIT
 
-Este repositório contém as soluções do **Desafio Prático 3** da disciplina de **Algoritmos e Programação**, ministrada pela Profª Evelyn Karinne Silva no curso de Bacharelado em Inteligência Artificial do PIT.
+Este repositório contém as soluções do **Desafio Prático 3** da disciplina de **Algoritmos e Programação**, ministrada pela Profª Evelyn no curso de Bacharelado em Inteligência Artificial do Píauí Instituto de Tecnologia (PIT).
 
-## 📌 Objetivo
+## 📌 Do Objetivo
 O objetivo principal desta atividade é praticar a estruturação de códigos utilizando **Funções** em Python para resolver problemas de lógica, cálculos e manipulação de listas.
 
-## 🚀 Desafios Inclusos
+## 🚀 Dos Desafios 
 
 ### 1. Calculadora com Funções
 Criação de um sistema de calculadora onde cada operação matemática (soma, subtração, multiplicação e divisão) é tratada por uma função específica.
@@ -27,8 +27,5 @@ Algoritmo para auxiliar um químico na classificação de 12 produtos. A funçã
 * **Básico:** pH entre 7 e 14
 
 ## 🛠️ Tecnologias Utilizadas
-* Python 3.x
+* Python
 * Lógica de Programação com foco em Funções e Listas
-
-## ✉️ Entrega
-Atividade realizada para entrega conforme os requisitos da disciplina.
